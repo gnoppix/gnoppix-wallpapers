@@ -1,0 +1,12 @@
+pkgbase = gnoppix-wallpapers
+	pkgdesc = Wallpapers for Gnoppix
+	pkgver = r10.fb98756
+	pkgrel = 1
+	url = https://github.com/gnoppix/gnoppix-wallpapers
+	arch = any
+	license = GPL-1.0-only
+	makedepends = git
+	source = git+https://github.com/gnoppix/gnoppix-wallpapers.git
+	sha512sums = SKIP
+
+pkgname = gnoppix-wallpapers
